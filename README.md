@@ -43,3 +43,5 @@ Run the service
 ```sh
 npm run start
 ```
+
+_Note: you might want to create a cron job to perform this script recurrently_
